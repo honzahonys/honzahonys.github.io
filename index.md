@@ -1,6 +1,5 @@
 <h1> ✌️ </h1>
-<p> hello </p>
 
 <h2> one word </h2>
 
-  <li><a href="firstdraft.md">draft I.</a></li>
+  <li><a href="firstdraft.md">📎 first draft</a></li>
