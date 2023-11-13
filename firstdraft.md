@@ -2,6 +2,8 @@
 
 Jan Honys
 
+<img src="imgimg.jpg" alt="Lucky cat in vibrant colours">
+
 Even though it’s a seemingly innocent and commonly used word meant to describe positives, or agreement, the word OK (or okay, ‘kay or even the dreadful k) can and frequently is weaponised. It can be a total mood killer that leaves you drained and unmotivated.
 
 Imagine this: you are enthusiastically sharing some of your work with a friend, client, boss,.. doesn’t matter who really, and they can’t bother to reply with anything more creative than “it’s okay” or in the worst case a plain “ok”. To me, that’s way worse than saying that it’s the worst thing you have ever laid your eyes upon. Is it okay as in just barely passable? Or is it actually horrible and you think I can’t handle you telling me so? It’s a word that only acknowledges the existence of what I’m presenting, and at the same time it can ruin my mood, just one word, that’s actually an abbreviation. 
