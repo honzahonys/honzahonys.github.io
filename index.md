@@ -1,8 +1,6 @@
-# honzahonys.github.io
-
 <h1> ✌️ </h1>
 <p> hello </p>
 
-<h2> 1wrd </h2>
+<h2> one word </h2>
 
-  <li><a href="/honzahonys/01-one-word/first-draft.html">draft I.</a></li>
+  <li><a href="firstdraft.md">draft I.</a></li>
