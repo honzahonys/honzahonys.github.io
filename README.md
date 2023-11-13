@@ -5,5 +5,5 @@
 
 <h2> 1wrd </h2>
 
-  <li><a href="/honzahonys/01-one-word/first-draft.html">draft I.</a></li>
+  <li><a href="firstdraft.md">draft I.</a></li>
   
