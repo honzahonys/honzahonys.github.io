@@ -1,5 +1,5 @@
 <body>
-# “OK”
+📎 okay (first draft)
 
 Jan Honys
 
