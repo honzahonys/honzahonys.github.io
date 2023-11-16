@@ -1,11 +1,11 @@
 <html>
   <body>
   
-<h1>📎 okay (first draft)<h1>
+<h1>📎 okay (first draft)</h1>
 
 Jan Honys
 
-<img src="imgimg.jpg" alt="Lucky cat in vibrant colours">
+<img src="imgimg.jpg" alt="Lucky cat in vibrant colours"/>
 
 <p>Even though it’s a seemingly innocent and commonly used word meant to describe positives, or agreement, the word OK (or okay, ‘kay or even the dreadful k) can and frequently is weaponised. It can be a total mood killer that leaves you drained and unmotivated.
 
@@ -13,6 +13,6 @@ Imagine this: you are enthusiastically sharing some of your work with a friend, 
 
 Besides being a lazy and unproductive word for commenting on something in a professional setting, the word OK can also be a real downer when used in everyday social interactions, especially with the people very close to us. Say you’re texting a friend to ask if they want to hang out later, and they respond with “okay.” Really? That’s one of the coldest responses I can imagine, it leaves you unsure of their true feelings and the true meaning of the text. Just say you don’t want to hang out, because now I don’t feel like going out either. And you can’t really tell if they mean it in a “giving you the cold shoulder” way or if they wanted to respond quickly but were in the middle of something else and didn’t want to bother with a longer response, which would be totally fine, there’s just a bit of uncertainty when it comes to OK. But I know that people do use it to send hints that they don’t vibe with you because I’m also guilty of weaponising it, pretty often. Or using it in a situation where I’m not really sure what else to say because there’s a miscommunication.
 
-I think that we should all be more careful not to throw around OK (or any of it’s adobe mentioned variants) without thinking about the other person, who has to figure out what you meant. It is really easy to use it, but it can be difficult to be on the receiving end of it. There is a lot of alternatives like “great” or “alright”, and a plethora of other words, depending on the situation. Let’s all leave ok for computer pop-ups and checklists, choosing more thoughtful and clearer words in our human communications.<p>
+I think that we should all be more careful not to throw around OK (or any of it’s adobe mentioned variants) without thinking about the other person, who has to figure out what you meant. It is really easy to use it, but it can be difficult to be on the receiving end of it. There is a lot of alternatives like “great” or “alright”, and a plethora of other words, depending on the situation. Let’s all leave ok for computer pop-ups and checklists, choosing more thoughtful and clearer words in our human communications.</p>
 </body>
 </html>
