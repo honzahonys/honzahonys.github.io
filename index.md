@@ -1,9 +1,9 @@
 <h1> ✌️ </h1>
 
 <h2> first impressions </h2>
-  <li><a href="firstimpressions.md">📎 first impressions</a></li>
+  <li><a href="firstimpressions.html">📎 first impressions</a></li>
 
 <h2> one word </h2>
 
-  <li><a href="firstdraft.md">📎 first draft</a></li>
-  <li><a href="revision.md">📎 revision</a></li>
+  <li><a href="firstdraft.html">📎 first draft</a></li>
+  <li><a href="revision.html">📎 revision</a></li>
