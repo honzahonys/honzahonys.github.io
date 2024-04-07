@@ -10,3 +10,6 @@
 
   <li><a href="firstdraft.html">📎 first draft</a></li>
   <li><a href="revision.html">📎 revision</a></li>
+
+<h2>tone of voice</h2>
+  <li><a href="toneofvoice.html">📎 tone of voice</a></li>
