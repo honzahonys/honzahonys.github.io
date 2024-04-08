@@ -13,3 +13,6 @@
 
 <h2>tone of voice</h2>
   <li><a href="toneofvoice.html">📎 tone of voice</a></li>
+
+  <h2>storytelling</h2>
+  <li><a href="storytelling.html">📎 storytelling</a></li>
