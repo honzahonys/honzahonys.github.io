@@ -16,3 +16,9 @@
 
   <h2>storytelling</h2>
   <li><a href="storytelling.html">📎 storytelling</a></li>
+
+ <h2>thesis</h2>
+  <li><a href="thesis/thesis.html">📎 thesis</a></li>
+
+ <h2>year in review</h2>
+  <li><a href="year_review/yearreview.html">📎 year in review</a></li>
